@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie Catalogue 2.0</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_search">Search</string>
+    <string name="title_fav">Favourite</string>
+    <string name="failtv">oopss, something went wrong</string>
+    <string name="search_hint">Masukan judul</string>
+    <string name="poster">Movie Image</string>
+    <string name="genre">Genre</string>
+    <string name="overview">Sinopsis</string>
+    <string name="fav_menu">Add to Favourite</string>
+    <string name="emptyfav">Favourite List is Empty</string>
+    <string name="move_to_fav">See favourite movie</string>
+    <string name="title_favourite">Favourite Movie</string>
+</resources>
