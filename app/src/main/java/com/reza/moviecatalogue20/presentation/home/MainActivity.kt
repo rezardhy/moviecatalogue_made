@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         binding.tvFail.visibility= View.GONE
 
         movieAdapter.onItemClick = {
-            Log.d("cekklik",it.toString())
+            Log.d("awkokawofkew",it.toString())
             val i = Intent(this, DetailActivity::class.java)
             i.putExtra(DetailActivity.EXTRAMOVIES, it)
             startActivity(i)
