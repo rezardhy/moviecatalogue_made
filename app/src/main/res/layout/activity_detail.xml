@@ -36,8 +36,8 @@
             android:textColor="@color/black"
             android:layout_marginTop="25dp"
             tools:text="Alita : Battle Angel"
-            android:textSize="30sp"
-            android:fontFamily="serif"
+            android:textSize="25sp"
+            android:fontFamily="monospace"
             android:layout_toEndOf="@id/movie_poster"
             />
 
